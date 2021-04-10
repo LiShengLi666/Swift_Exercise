@@ -1,0 +1,16 @@
+PODS:
+  - ShareCommon (0.0.1)
+
+DEPENDENCIES:
+  - ShareCommon (from `../../ShareCommon`)
+
+EXTERNAL SOURCES:
+  ShareCommon:
+    :path: "../../ShareCommon"
+
+SPEC CHECKSUMS:
+  ShareCommon: 6ca13eaaf56a642276b90c4bba3c15ca1802d87f
+
+PODFILE CHECKSUM: 4f41465ca3b9884296a85c994a389ecf975c1c8f
+
+COCOAPODS: 1.10.1
